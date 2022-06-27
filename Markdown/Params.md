@@ -5,7 +5,7 @@
 ## 1.1 Geometry
 ### 1.1.1 Point
 在场景中拾取或绘制点.
-<a href=""><img src="./imgs/appendix_component/1_1_Point.png" height="auto" width=1000 title="caDesign"></a >
+<a href=""><img src="imgs\appendix_component\1_1_Point.png" height="auto" width=1000 title="caDesign"></a >
 
 ### 1.1.2 Vector
 矢量是一种既有大小又有方向的量

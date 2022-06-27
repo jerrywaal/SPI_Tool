@@ -1,33 +1,36 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta charset="UTF-8">
-  <link rel="stylesheet" href="//unpkg.com/docsify/themes/vue.css">
+  <title>智能辅助设计工具</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 </head>
 <body>
+  <nav><a href="https://www.baidu.com/">智能设计</a></nav>
   <div id="app"></div>
   <script>
     window.$docsify = {
-      //...
+      name: '智能辅助设计工具——greening_design',
+      repo: 'https://github.com/hush000083/intelligent_tools_spi',
+      auto2top: true,
+      coverpage: false,
+      loadSidebar: true,
+      loadNavbar: true,
+      maxLevel: 4,
+      subMaxLevel: 3,
+      mergeNavbar: true,
+      search: {
+            paths: 'auto',
+            placeholder: '🔍 Type to search ',
+            noData: '😞 No Results! ',
+            depth: 3
+        },
     }
   </script>
-  
-  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-
-  <script> window.$docsify = { loadSidebar: true } </script> <script src="//unpkg.com/docsify"></script>
-
-
-  <!-- index.html -->
-
-<script>
-    window.$docsify = {
-      // ...
-    }
-  </script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
-
+  <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 </body>
 </html>
