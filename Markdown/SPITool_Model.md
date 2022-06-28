@@ -3,5 +3,5 @@
 # SPI_Model
 
 ## 一体成型桥
-| 一体成型桥  |  <img src="SPI_Tool\imgs\tool\一体成型桥.png" height="auto" width="auto" title="caDesign">|适用于3D打印一体成型项目 |<a href="./Moths_components/Counter.gh">Counter Download</a> |
+| 一体成型桥  |  <img src="SPI_Tool\imgs\tool\一体成型桥.png" height="auto" width="auto" title="caDesign">|适用于3D打印一体成型项目 |<a href="./Moths_components/Counter.gh">Download</a> |
 |---|---|---|---|
