@@ -12,6 +12,17 @@
 
   <div id="app"></div>
   <script>
+        var gitalkConfig = {
+        clientID: '731cedb8e49c313ae3d3',
+        clientSecret: 'b64af2d60dddb9845cdbd6b28ecd5e1b081884be',
+        //accessToken: 'c2c0d38a8cb2f9c26277269568bf603fef7fa56ec',
+        repo: 'parametric_design_coding_grasshopper',
+        owner: 'richieBao',
+        admin: ["richieBao"],       
+        id: window.location.pathname,
+        distractionFreeMode: false
+      }; 
+
     window.$docsify = 
     {
       name: '智能辅助设计工具——Intelligent_Design',
@@ -23,19 +34,26 @@
       maxLevel: 4,
       subMaxLevel: 3,
       mergeNavbar: true,
+
       search: {
             paths: 'auto',
             placeholder: '🔍 Type to search ',
             noData: '😞 No Results! ',
             depth: 3
         },
+        
     }
   </script>
 
   <!--放大图片-->
   <script src="//unpkg.com/docsify/lib/plugins/zoom-image.js"></script>
-  
+
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+
+  <!--推特表情-->
+  <script src="//cdn.jsdelivr.net/gh/TaQini/docsify-twemoji@master/twemoji.min.js"></script>
+<!--<script src="https://cdn.jsdelivr.net/npm/docsify-example-panels@1"></script>-->
+<!--format-->
 </body>
 </html>
