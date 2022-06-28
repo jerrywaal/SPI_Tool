@@ -7,7 +7,7 @@
 
 输入端 <span style = "color:indianred;background-color:lightgray">（Gemetry）</span> 拾取的物体以输入端 <span style = "color:indianred;background-color:lightgray">（Point）</span> 设定的镜像点利用小孔成像原理将物体根据输入端 <span style = "color:indianred;background-color:lightgray">（Factor）</span> 设定的缩放倍数进行变形翻转。
 
-<a href=""><img src="imgs/appendix_component\9_1_Affine Camera Obscura.png" height="auto" width=600 title="caDesign"></a>
+<a href=""><img src="imgs\appendix_component\9_1_Affine Camera Obscura.png" height="auto" width=600 title="caDesign"></a>
 
 
 ### 9.1.2 Scale
