@@ -8,10 +8,4 @@
     * [Params](Markdown/Params.md)
     * [Maths](Markdown/Maths.md)
     * [Mesh](Markdown/Mesh.md)
-<<<<<<< HEAD
     * [Transform](Markdown/transform.md)
-=======
-    * [Transform](Markdown/transform.md)
-    
-
->>>>>>> f41eb1a58cddb1ca55cc5cd4b89a8f474c7fbd45
