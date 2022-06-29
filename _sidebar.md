@@ -1,12 +1,14 @@
 <!-- docs/_sidebar.md -->
 
-* [首页]()
-* [指南]()
-* [Moths-模组说明]
-    * [Data Organization](./markdown/transform.md)
-    * [Database](./markdown/Database.md)
-    * [Design Analysis](./markdown/Design_Analysis.md)
-    * [Design Content](./markdown/Design_Content.md)
-    * [Info](./markdown/Info.md)
-    * [Rural Archi](./markdown/Rural_Archi.md)
-    * [Util](./markdown/Util.md)
+* [二维智能插件]
+
+* [三维智能插件]
+ * [SPI_Model](./markdown/SPITool_Model.md)
+ * [SPI_Tools](./markdown/SPITool_Tools.md)
+
+* [基础辞典]
+    * [params](./markdown/Params.md)
+    * [Maths](./Markdown/Maths.md)
+    * [Mesh](./markdown/Mesh.md)
+    * [Transform](./markdown/transform.md)
+
