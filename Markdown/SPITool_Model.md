@@ -45,8 +45,3 @@
 
 | 桥板和防坎 |  <img src="./imgs\tool\桥板和防坎.png" height="100" width="100" title="caDesign">|桥板和防坎生成|<a href="./Moths_components/Counter.gh">Download</a> |
 |---|---|---|---|
-
-## _Domain_Random
-
-| Domain_Random |  <img src="./imgs/Moths_imgs/Domain_Random.png" height="auto" width="auto" title="caDesign"> | Domain_Random 给定区间随机数 |  <a href="./Moths_components/Domain_Random.gh">Domain_Random Download</a> |
-|---|---|---|---|
