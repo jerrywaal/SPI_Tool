@@ -3,12 +3,12 @@
 * [二维智能插件]
 
 * [三维智能插件]
- * [SPI_Model](./markdown/SPITool_Model.md)
- * [SPI_Tools](./markdown/SPITool_Tools.md)
+ * [SPI_Model](./Markdown\SPITool_Tools.md)
+ * [SPI_Tools](./Markdown\SPITool_Tools.mdd)
 
 * [基础辞典]
-    * [params](./markdown/Params.md)
+    * [params](./Markdown/Params.md)
     * [Maths](./Markdown/Maths.md)
-    * [Mesh](./markdown/Mesh.md)
-    * [Transform](./markdown/transform.md)
+    * [Mesh](./Markdown/Mesh.md)
+    * [Transform](./Markdown/transform.md)
 
