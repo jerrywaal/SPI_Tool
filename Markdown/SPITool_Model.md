@@ -38,3 +38,7 @@
 ## 景观桥梯形基础结构
 | 景观桥梯形基础结构 |  <img src="./imgs\tool\梯形基础.png" height="300" width="300" title="caDesign">|根据长度自动生成梯形基础结构|<a href="./Moths_components/Counter.gh">Download</a> |
 |---|---|---|---|
+
+## 桥板和防坎
+| 桥板和防坎 |  <img src="./imgs\tool\桥板和防坎.png" height="300" width="300" title="caDesign">|桥板和防坎生成|<a href="./Moths_components/Counter.gh">Download</a> |
+|---|---|---|---|
