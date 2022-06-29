@@ -24,5 +24,5 @@
 |---|---|---|---|
 
 ## _高度变化屋脊亭
-| 高度变化屋脊亭 |  <img src="./imgs\tool\步道楼梯转换桥.png" height="300" width="300" title="caDesign">|结合了景观步道和楼梯的行为方式|<a href="./Moths_components/Counter.gh">Download</a> |
+| 高度变化屋脊亭 |  <img src="./imgs\tool\屋脊高度变化亭.png" height="300" width="300" title="caDesign">|自由调整开口大小、高度和倾斜程度|<a href="./Moths_components/Counter.gh">Download</a> |
 |---|---|---|---|
