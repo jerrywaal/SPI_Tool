@@ -39,14 +39,15 @@
 | Unify Planar UV |  <img src="./imgs\tool\Unify Planar UV.png" height="auto" width="auto" title="caDesign"> | 统一同一平面内曲面的UV |  <a href="./Moths_components/Domain_Random.gh">Download</a> |
 |---|---|---|---|
 
-## Unify Planar UV
-| Unify Planar UV |  <img src="./imgs\tool\Unify Planar UV.png" height="auto" width="auto" title="caDesign"> | 统一同一平面内曲面的UV |  <a href="./Moths_components/Domain_Random.gh">Download</a> |
-|---|---|---|---|
-
 ## Unify 3D UV
 | Unify 3D UV |  <img src="./imgs\tool\Unify 3D UV.png" height="auto" width="auto" title="caDesign"> | 统一不同平面内曲面的UV |  <a href="./Moths_components/Domain_Random.gh">Download</a> |
 |---|---|---|---|
 
 ## 平立剖自动生成
 | 平立剖自动生成 |  <img src="./imgs\tool\平立剖自动生成.png" height="auto" width="auto" title="caDesign"> |带图框平立剖自动生成|  <a href="./Moths_components/Domain_Random.gh">Download</a> |
+|---|---|---|---|
+
+
+## 自动尺寸标注
+| 自动尺寸标注 |  <img src="./imgs\tool\自动尺寸标注.png" height="auto" width="auto" title="caDesign"> |输入判断线来自动标注尺寸|  <a href="./Moths_components/Domain_Random.gh">Download</a> |
 |---|---|---|---|
