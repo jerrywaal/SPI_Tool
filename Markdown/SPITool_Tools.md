@@ -24,5 +24,9 @@
 |---|---|---|---|
 
 ## Up and Divide
-| Up and Divide |  <img src="./imgs\tool\UpandDivide.png" height="auto" width="auto" title="caDesign"> | 通过给定方向投影曲线到网格 |  <a href="./Moths_components/Domain_Random.gh">Download</a> |
+| Up and Divide |  <img src="./imgs\tool\UpandDivide.png" height="auto" width="auto" title="caDesign"> | 让曲线在Z轴移动并等分 |  <a href="./Moths_components/Domain_Random.gh">Download</a> |
+|---|---|---|---|
+
+## GroupItSelf
+| GroupItSelf |  <img src="./imgs\tool\GroupItSelf.png" height="auto" width="auto" title="caDesign"> | 让输入数据不重复的两两分组排列组合 |  <a href="./Moths_components/Domain_Random.gh">Download</a> |
 |---|---|---|---|
